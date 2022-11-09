@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment
 class ThirdFragment:Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Log.e("SecondFragment","onCreate")
+        Log.e("ThirdFragment","onCreate")
     }
 
     override fun onCreateView(
